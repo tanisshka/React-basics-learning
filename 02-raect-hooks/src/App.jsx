@@ -16,7 +16,7 @@ function App() {
   }
   return (
     <>
-    <h1>Chai aur react</h1>
+    <h1>React</h1>
     <h2>Counter value: {curCount}</h2>
     <button onClick={increaseValueHandler}>Increase value</button>
     <button onClick={decreaseValueHandler}>Decrease value</button>
